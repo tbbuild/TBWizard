@@ -1,0 +1,18 @@
+id="plugin.program.bucky"
+version="0.1.7"
+zip="http://buckymedia.ru/bucky/plugin.program.bucky.zip"
+
+name="Redemption Bucky Media"               
+version="1.0"             
+url="https://dl.dropboxusercontent.com/s/x48yasry826ov20/buckyredemption.zip?dl=0"                
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="http://buckymedia.ru/redemption/images/icon.png"
+fanart="http://buckymedia.ru/redemption/images/fanart.jpg"
+preview="http://"
+adult="No"
+description="Redemption Bucky Media Build"
+
+
+
