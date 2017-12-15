@@ -1,8 +1,8 @@
-id="plugin.program.bucky"
+id="plugin.program.TBBuild"
 version="0.1.7"
-zip="http://buckymedia.ru/bucky/plugin.program.bucky.zip"
+zip="https://tbbuild.github.io/TBWizard/plugin.program.TBBuild.zip"
 
-name="Redemption Bucky Media"               
+name="..:: TBBuild ::.."               
 version="1.0"             
 url="https://dl.dropboxusercontent.com/s/x48yasry826ov20/buckyredemption.zip?dl=0"                
 gui="http://"
@@ -12,7 +12,7 @@ icon="http://buckymedia.ru/redemption/images/icon.png"
 fanart="http://buckymedia.ru/redemption/images/fanart.jpg"
 preview="http://"
 adult="No"
-description="Redemption Bucky Media Build"
+description="..:: TBBUILD ::.."
 
 
 
